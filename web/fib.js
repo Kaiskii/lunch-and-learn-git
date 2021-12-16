@@ -14,7 +14,7 @@ let Fibonacci = (n) => {
 // Main Function
 //
 let Main = () => {
-  Fibonacci(4);
+  Fibonacci(20);
 }
 
 Main();
